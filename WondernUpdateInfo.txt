@@ -1,1 +1,8 @@
-shgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwyfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywgshgwygfywg
+Доступно новое обновление :  Wondern v0.15!
+       Добавлено :
+                  NEW Обновлена карта
+                  NEW Добавлено озеро с физикой
+                  NEW Улучшение изображения вцелом (PostProcessing)
+                  Обновлено Добавлен материал яблоку
+                  Исправлены баги
+Приятной игры!
